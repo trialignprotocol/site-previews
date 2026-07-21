@@ -1,6 +1,0 @@
-.DS_Store
-Thumbs.db
-
-# Local-only preserved full site (do NOT publish during soft-hold)
-*.full.html
-*.full.txt
